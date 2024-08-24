@@ -16,8 +16,7 @@ The dataset is obtained from Kaggle.
 ## Installation
 To run this project, you need to have Python 3.x installed along with the following libraries:
 
-- os
-- cv2
+- OpenCV
 - TensorFlow
 - Keras
 - seaborn
@@ -28,4 +27,4 @@ To run this project, you need to have Python 3.x installed along with the follow
 
 Install the required packages using pip:
 ```bash
-pip install cv2 tensorflow keras seaborn pandas numpy matplotlib scikit-learn
+pip install opencv-python tensorflow keras seaborn pandas numpy matplotlib scikit-learn
