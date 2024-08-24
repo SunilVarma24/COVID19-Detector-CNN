@@ -18,7 +18,8 @@ To run this project, you need to have Python 3.x installed along with the follow
 
 - os
 - cv2
-- TensorFlow & Keras
+- TensorFlow
+- Keras
 - seaborn
 - pandas
 - numpy
