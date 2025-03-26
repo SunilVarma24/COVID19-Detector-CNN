@@ -1,8 +1,5 @@
 # COVID-19 Detection from Chest X-ray Images using CNN
 
-## Project Overview
-This project involves the use of a Convolutional Neural Network (CNN) to classify chest X-ray images into two categories: Normal and COVID-19. The model is designed to aid in the rapid and accurate detection of COVID-19, leveraging the power of deep learning to analyze medical images. The project demonstrates the application of CNNs in medical diagnostics and highlights the potential of AI in combating the COVID-19 pandemic.
-
 ## Introduction
 The COVID-19 pandemic has highlighted the need for rapid and reliable diagnostic tools. Chest X-rays are commonly used for diagnosing respiratory conditions, including COVID-19. This project uses a Convolutional Neural Network (CNN) to automatically classify X-ray images as either "Normal" or "COVID-19", providing a tool that could potentially assist healthcare professionals in the diagnosis process.
 
